@@ -2,6 +2,21 @@
 
 Here is a guide that teaches you how to integrate Immutable Passport into your application:
 
+### Table Of Contents:
+
+1. Introduction
+2. Prerequisites
+3. Steps
+    1. Creating a simple application or git cloning a repository of the simple application
+    2. Registering the application on Immutable Developer Hub
+    3. Installing and initialising the Passport client
+    4. Logging in a user with Passport
+    5. Displaying on the app the id token, access token obtained from authenticating with Passport after login, and the user's nickname
+    6. Logging out a user
+    7. Initiate a transaction from Passport, such as sending a placeholder string and obtaining the transaction hash
+    8. Creating a sample application
+    9. Submitting the bounty
+
 ## Introduction
 This guide will walk you through the process of integrating Immutable Passport into your application. The guide will cover the following topics:
 
