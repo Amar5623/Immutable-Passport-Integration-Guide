@@ -88,7 +88,7 @@ app.get('/logout', (req, res) => {
 
 You can find more information about this function in the [Passport.js documentation](https://www.passportjs.org/docs/logout/).
 
-###7. **Initiate a transaction from Passport, such as sending a placeholder string and obtaining the transaction hash**: To initiate a transaction from Passport, use the `authenticate()` function provided by Passport.js:
+### 7. **Initiate a transaction from Passport, such as sending a placeholder string and obtaining the transaction hash**: To initiate a transaction from Passport, use the `authenticate()` function provided by Passport.js:
 
 ```javascript
 app.get('/transaction', (req, res) => {
@@ -106,7 +106,7 @@ app.get('/transaction', (req, res) => {
 
 You can find more information about this function in the [Passport.js documentation](https://www.passportjs.org/docs/authenticate/).
 
-###8. **Creating a sample application**: To create a sample application, follow these steps:
+### 8. **Creating a sample application**: To create a sample application, follow these steps:
 
    1. Create a new directory for your application.
    2. Create a new file called `index.js` in the directory.
