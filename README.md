@@ -197,3 +197,15 @@ You can find more information about this function in the [Passport.js documentat
        ```
        node index.js
        ```
+
+### 9. Conclusion
+Congratulations! You have successfully learned how to integrate Immutable Passport into your application. By following the steps outlined in this guide, you can now enable secure user authentication and blockchain transactions in your projects.
+
+**What's Next?**
+- Experiment with Immutable Passport and customize the authentication process to meet your application's specific needs.
+- Explore the official [Immutable Developer Hub](https://hub.immutable.com/) and [Passport.js documentation](http://www.passportjs.org/) for more advanced features and options.
+- Join the [Immutable community](https://community.immutable.com/) and connect with other developers to share experiences and seek support.
+
+We hope this guide has been helpful in your blockchain gaming journey. If you have any questions or need further assistance, please don't hesitate to reach out.
+
+Happy coding, and enjoy developing with Immutable Passport!
