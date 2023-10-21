@@ -4,19 +4,18 @@ Here is a guide that teaches you how to integrate Immutable Passport into your a
 
 ### Table Of Contents:
 
-1. Introduction
-2. Prerequisites
-3. Steps
-    1. Creating a simple application or git cloning a repository of the simple application
-    2. Registering the application on Immutable Developer Hub
-    3. Installing and initialising the Passport client
-    4. Logging in a user with Passport
-    5. Displaying on the app the id token, access token obtained from authenticating with Passport after login, and the user's nickname
-    6. Logging out a user
-    7. Initiate a transaction from Passport, such as sending a placeholder string and obtaining the transaction hash
-    8. Creating a sample application
-    9. Submitting the bounty
-
+1. [Introduction](https://github.com/Amar5623/Immutable-Passport-Integration-Guide/blob/main/README.md#introduction)
+2. [Prerequisites](https://github.com/Amar5623/Immutable-Passport-Integration-Guide/blob/main/README.md#prerequisites)
+3. [Steps](https://github.com/Amar5623/Immutable-Passport-Integration-Guide/blob/main/README.md#steps)
+    1. [Creating a simple application or git cloning a repository of the simple application](https://github.com/Amar5623/Immutable-Passport-Integration-Guide/blob/main/README.md#1-creating-a-simple-application-or-git-cloning-a-repository-of-the-simple-application)
+    2. [Registering the application on Immutable Developer Hub](https://github.com/Amar5623/Immutable-Passport-Integration-Guide/blob/main/README.md#2-registering-the-application-on-immutable-developer-hub)
+    3. [Installing and initialising the Passport client](https://github.com/Amar5623/Immutable-Passport-Integration-Guide/blob/main/README.md#3-installing-and-initialising-the-passport-client)
+    4. [Logging in a user with Passport](https://github.com/Amar5623/Immutable-Passport-Integration-Guide/blob/main/README.md#4-logging-in-a-user-with-passport)
+    5. [Displaying on the app the id token, access token obtained from authenticating with Passport after login, and the user's nickname](https://github.com/Amar5623/Immutable-Passport-Integration-Guide/blob/main/README.md#5-displaying-on-the-app-the-id-token-access-token-obtained-from-authenticating-with-passport-after-login-and-the-users-nickname)
+    6. [Logging out a user](https://github.com/Amar5623/Immutable-Passport-Integration-Guide/blob/main/README.md#6-logging-out-a-user)
+    7. [Initiate a transaction from Passport, such as sending a placeholder string and obtaining the transaction hash](https://github.com/Amar5623/Immutable-Passport-Integration-Guide/blob/main/README.md#7-initiate-a-transaction-from-passport-such-as-sending-a-placeholder-string-and-obtaining-the-transaction-hash-to-initiate-a-transaction-from-passport-use-the-authenticate-function-provided-by-passportjs)
+    8. [Creating a sample application](https://github.com/Amar5623/Immutable-Passport-Integration-Guide/blob/main/README.md#8-creating-a-sample-application-to-create-a-sample-application-follow-these-steps)
+   
 ## Introduction
 This guide will walk you through the process of integrating Immutable Passport into your application. The guide will cover the following topics:
 
